@@ -1,6 +1,7 @@
 import { createIcons, icons } from 'lucide';
 import { stateStore } from './store/state.js';
 import { showToast } from './utils/toast.js';
+import './config/firebase.js';
 
 // Public Components
 import { renderHeader } from './components/Header.js';

@@ -9,8 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lucide": "^0.475.0",
-    "canvas-confetti": "^1.9.4"
+    "canvas-confetti": "^1.9.4",
+    "firebase": "^12.19.0",
+    "lucide": "^0.475.0"
   },
   "devDependencies": {
     "vite": "^6.1.0"
